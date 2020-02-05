@@ -1,7 +1,7 @@
 
 
 
-For this project, I selected the Flight Dataset, only using the 2008 year of data.
+For this project, I explored a flight dataset for the year 2008 provided by the Bureau of Transporation Statistics.
 
 Key Findings:
 1. Southwest Airlines flew nearly twice as many flights as any other carrier in this dataset.
@@ -11,4 +11,3 @@ Key Findings:
 5. The average taxi time for a departing flight was 16.5 minutes
 6. The average taxi time for an arriving flight was 6.8 minutes
 
-I chose these results because they were the most interesting results to me, especially findings 1-3.
