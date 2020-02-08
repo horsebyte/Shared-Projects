@@ -1,1 +1,1 @@
-This project was just a quick attempt at building a simple movie recommender system that selected similar movies based on the correllation between reviews and number of reviews for the selected movies (Star Wars and Liar Liar).
+This project was just a quick attempt at building a simple movie recommender system that selected similar movies based on the correlation between reviews and number of reviews for the selected movies (Star Wars and Liar Liar).
